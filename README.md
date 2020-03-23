@@ -18,6 +18,7 @@ Process to create a jumpbox configuration in AWS
 **Step 3 - Routing**
 - Private routing table for the private subnet, it must have the NAT instance as the gateway
 - Public routing table for the public subnet must have an Internet gateway
+- **Important** The NAT instance must have the option "Change Source/Dest Check" disabled
 
 **Step 4 - Security groups**
 - NAT instance SG: inbound traffic from final instance SG
