@@ -23,3 +23,7 @@ Process to create a jumpbox configuration in AWS
 - NAT instance SG: inbound traffic from final instance SG
 - Final instance: SSH traffic only from jumpbox SG
 - Jumpbox SG: standard security considerations
+
+Diagram
+=
+![JumpBox](https://user-images.githubusercontent.com/28940499/77299277-9bb4e400-6cc2-11ea-8b5c-152724a6c510.png)
