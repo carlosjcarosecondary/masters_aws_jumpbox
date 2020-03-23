@@ -27,4 +27,4 @@ Process to create a jumpbox configuration in AWS
 
 Diagram
 =
-
+![JumpBox](https://user-images.githubusercontent.com/28940499/77299853-82f8fe00-6cc3-11ea-99c8-ffc622f81f9b.png)
